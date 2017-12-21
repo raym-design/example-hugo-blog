@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "ja"
+title = "ぱたくそ公式ブログ"
+theme = "hugo_theme_robust"
